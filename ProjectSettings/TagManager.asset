@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Anchor
+  - Handle_Left
+  - Handle_Right
+  - WordCore
+  - LetterBlock
   layers:
   - Default
   - TransparentFX
